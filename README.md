@@ -1,6 +1,4 @@
-##Henly Passport Index Data Analysis Project
-
-##Introduction
+# **Introduction**
 
 This project analyzes the global trends in passport power, examining the visa-free access, rankings, and the impacts of various factors, including the COVID-19 pandemic, on the mobility of different countries. Passport strength is measured based on the number of countries a passport holder can visit without needing a visa or with visa-on-arrival. This project uses a combination of Python for data analysis and Tableau for interactive data visualization to provide insights on how passport power has evolved over time and the potential factors influencing these trends.
 
@@ -16,7 +14,7 @@ Relationships between visa-free access and international relations.
 
 The distribution of visa types and their prevalence across the globe.
 
-##Methodology
+# **Methodology**
 
 Data Collection
 
@@ -64,7 +62,7 @@ Vertical bar chart for visa-free count by continent.
 
 Horizontal bar chart for top countries by visa-free access.
 
-##Results
+# **Results**
 Dramatic Improvements in Passport Power
 
 Countries with the largest improvements in rankings or visa-free access are identified. Some countries show a significant rise in their rankings over the years, while others have made notable advancements in the number of visa-free countries they can access.
@@ -85,7 +83,7 @@ Strong Relationships and Mutual Visa-Free Access
 
 Countries with historically strong diplomatic ties tend to offer mutual visa-free access, particularly within regions like the European Union and parts of South America.
 
-##Conclusion
+# **Conclusion**
 
 This analysis provides a comprehensive overview of global passport power, highlighting both the improvements and declines in visa-free access and rankings. It underscores the importance of diplomatic relationships and the evolving dynamics in global travel policies, especially in the wake of the COVID-19 pandemic. The results of this study offer valuable insights into how countries' passport strength has changed over time and how these shifts are influenced by political, economic, and health-related factors.
 
