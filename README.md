@@ -2,7 +2,7 @@
 
 This project analyzes the global trends in passport power, examining the visa-free access, rankings, and the impacts of various factors, including the COVID-19 pandemic, on the mobility of different countries. Passport strength is measured based on the number of countries a passport holder can visit without needing a visa or with visa-on-arrival. This project uses a combination of Python for data analysis and Tableau for interactive data visualization to provide insights on how passport power has evolved over time and the potential factors influencing these trends.
 
-* The key areas of investigation include:
+***The key areas of investigation include:***
 
 - Dramatic improvements in passport power over the years.
 
@@ -50,7 +50,7 @@ To make the insights more accessible, several interactive visualizations were cr
 
 * Visa-Free Access Trend by Continent: A line chart showing the trend of visa-free access for each continent.
 
-* Dashboard
+***Dashboard***
 
 - A comprehensive dashboard combining the visualizations mentioned above allows for an interactive and comparative view of global passport power trends. This includes:
 
