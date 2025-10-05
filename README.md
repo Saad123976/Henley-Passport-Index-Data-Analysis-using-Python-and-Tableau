@@ -18,7 +18,7 @@ This project analyzes the global trends in passport power, examining the visa-fr
 
 * Data Collection
 
-The data used in this analysis was obtainced via tidyteusday github repository, it comes from a comprehensive dataset containing information about passport rankings, visa-free access, and visa requirements for countries from 2006 to 2025. The dataset is enriched with country-specific details such as visa-on-arrival, visa-required countries, and electronic travel authorizations (eTA).
+The data used in this analysis was obtained via tidytuesday github repository, it comes from a comprehensive dataset containing information about passport rankings, visa-free access, and visa requirements for countries from 2006 to 2025. The dataset is enriched with country-specific details such as visa-on-arrival, visa-required countries, and electronic travel authorizations (eTA).
 
 ***Python Analysis***
 
