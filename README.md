@@ -2,7 +2,7 @@
 
 This project analyzes the global trends in passport power, examining the visa-free access, rankings, and the impacts of various factors, including the COVID-19 pandemic, on the mobility of different countries. Passport strength is measured based on the number of countries a passport holder can visit without needing a visa or with visa-on-arrival. This project uses a combination of Python for data analysis and Tableau for interactive data visualization to provide insights on how passport power has evolved over time and the potential factors influencing these trends.
 
-*The key areas of investigation include:
+* The key areas of investigation include:
 
 - Dramatic improvements in passport power over the years.
 
@@ -18,7 +18,7 @@ This project analyzes the global trends in passport power, examining the visa-fr
 
 * Data Collection
 
-The data used in this analysis comes from a comprehensive dataset containing information about passport rankings, visa-free access, and visa requirements for countries from 2006 to 2025. The dataset is enriched with country-specific details such as visa-on-arrival, visa-required countries, and electronic travel authorizations (eTA).
+The data used in this analysis was obtainced via tidyteusday github repository, it comes from a comprehensive dataset containing information about passport rankings, visa-free access, and visa requirements for countries from 2006 to 2025. The dataset is enriched with country-specific details such as visa-on-arrival, visa-required countries, and electronic travel authorizations (eTA).
 
 * Python Analysis
 
@@ -52,15 +52,18 @@ To make the insights more accessible, several interactive visualizations were cr
 
 * Dashboard
 
-A comprehensive dashboard combining the visualizations mentioned above allows for an interactive and comparative view of global passport power trends. This includes:
+- A comprehensive dashboard combining the visualizations mentioned above allows for an interactive and comparative view of global passport power trends. This includes:
 
-World chart for rank distribution by country.
+- World chart for rank distribution by country.
 
-Treemap for rank distribution by continent.
+- Treemap for rank distribution by continent.
 
-Vertical bar chart for visa-free count by continent.
+- Vertical bar chart for visa-free count by continent.
 
-Horizontal bar chart for top countries by visa-free access.
+- Horizontal bar chart for top countries by visa-free access.
+
+  <img width="1280" height="646" alt="Rank" src="https://github.com/user-attachments/assets/f4e84409-0e17-4ce3-b2c1-b383f551df2a" />
+
 
 # **Results**
 * Dramatic Improvements in Passport Power
