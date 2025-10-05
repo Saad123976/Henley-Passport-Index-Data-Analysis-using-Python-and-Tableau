@@ -20,7 +20,7 @@ This project analyzes the global trends in passport power, examining the visa-fr
 
 The data used in this analysis was obtainced via tidyteusday github repository, it comes from a comprehensive dataset containing information about passport rankings, visa-free access, and visa requirements for countries from 2006 to 2025. The dataset is enriched with country-specific details such as visa-on-arrival, visa-required countries, and electronic travel authorizations (eTA).
 
-* Python Analysis
+***Python Analysis***
 
 *  Data Cleaning: We begin by preparing the dataset for analysis using pandas to clean and structure the data, making it suitable for pivot tables, filtering, and aggregation.
 
@@ -32,7 +32,7 @@ The data used in this analysis was obtainced via tidyteusday github repository, 
 
 * Visa Type Distribution: A final analysis examines the different types of visa arrangements (e.g., visa-free access, visa-on-arrival, eTA, etc.) across countries.
 
-* Tableau Visualization
+***Tableau Visualization***
 
 To make the insights more accessible, several interactive visualizations were created using Tableau. These visualizations allow users to explore the data dynamically:
 
